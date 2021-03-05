@@ -1,6 +1,13 @@
 h1{
    color: brown;
+   background-color: rgb(47, 185, 47);
+   text-align: center;
 }
 body{
    background-color: cadetblue;
+}
+p{
+   background-color: burlywood;
+   border-color: rgb(112, 62, 44) 25px ;
+   border-radius: 25%;
 }
